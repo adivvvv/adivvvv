@@ -52,11 +52,17 @@ I'm always interested in innovative projects related to:
 ✅ Blockchain & decentralized systems
 
 
+
 📫 Let's Connect!
 
+
 💬 Facebook: http://facebook.com/wadowskiadrian/
+
 📩 Email: adivv@adivv.pl
+
 🌍 My Company: https://camelway.eu/
+
+
 
 
 ⚡ Fun Fact: I’ve been coding since the early internet days and still get excited about new tech breakthroughs!
