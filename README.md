@@ -56,6 +56,8 @@ I'm always interested in innovative projects related to:
 📫 Let's Connect!
 
 
+💬 LinkedIn: https://www.linkedin.com/in/adrian-wadowski
+
 💬 Facebook: http://facebook.com/wadowskiadrian/
 
 📩 Email: adivv@adivv.pl
