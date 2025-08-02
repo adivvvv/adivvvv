@@ -41,9 +41,9 @@ I’m a Full-Stack Engineer with 25+ years of hands-on experience: from building
 ---
 
 ### 🔭 Current Focus  
-- **Laravel 12 & Vue 3 + Inertia.js** — building maintainable, component-driven apps  
-- **Containerization** — expanding Docker skills toward production deployments  
-- **Web3 Experiments** — decentralized apps & NFT utilities  
+- **Laravel 12 & Vue 3 + Inertia.js** - building maintainable, component-driven apps  
+- **Containerization** - expanding Docker skills toward production deployments  
+- **Web3 Experiments** - decentralized apps & NFT utilities  
 
 ---
 
