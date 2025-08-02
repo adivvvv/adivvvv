@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me  
-I’m a Full-Stack Engineer with 25+ years of hands-on experience—from building PHP 3 sites at age 13 to architecting modern Laravel applications today. I combine robust backend architecture, database optimization, and Linux server administration with e-commerce, Web3, and UI expertise to deliver secure, scalable, and user-friendly solutions at \$25/hr.
+I’m a Full-Stack Engineer with 25+ years of hands-on experience: from building PHP 3 sites at age 13 to architecting modern Laravel applications today. I combine robust backend architecture, database optimization, and Linux server administration with e-commerce, Web3, and UI expertise to deliver secure, scalable, and user-friendly solutions at \$25/hr.
 
 ---
 
@@ -30,7 +30,7 @@ I’m a Full-Stack Engineer with 25+ years of hands-on experience—from buildin
 - **Campaigns**: Setup, deliverability testing & analytics  
 
 #### ⛓️ Web3 & Blockchain  
-- **Forking**: Bitcoin v29, Solana & Ethereum clients  
+- **Forking**: Bitcoin v29, Solana & Ethereum clients with custom genesis and settings
 - **Integrations**: MetaMask, NFT game dev, EVM smart-contract interactions  
 
 #### 🖥️ Linux & DevOps Foundations  
