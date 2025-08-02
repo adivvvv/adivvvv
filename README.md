@@ -1,75 +1,57 @@
-👋 Hi, I'm Adrian Wadowski (AdiV)!
+# 👋 Hi, I’m Adrian “AdiV” Wadowski
 
+---
 
-🚀 About Me:
+### 🚀 About Me  
+I’m a Full-Stack Engineer with 25+ years of hands-on experience—from building PHP 3 sites at age 13 to architecting modern Laravel applications today. I combine robust backend architecture, database optimization, and Linux server administration with e-commerce, Web3, and UI expertise to deliver secure, scalable, and user-friendly solutions at \$25/hr.
 
-I'm a Full-Stack Engineer specializing in:
+---
 
-💻 PHP, JavaScript, HTML, CSS, MySQL
+### 🛠️ What I Do
 
-⚙️ Laravel, CodeIgniter, Cloud Management, Linux Server Administration
+#### ⚙️ Backend & API Development  
+- **Languages & Frameworks**: PHP (CodeIgniter 3/4, Laravel 12 in progress)  
+- **APIs**: RESTful design & third-party integrations  
+- **Databases**: MariaDB/MySQL schema design, performance tuning, Elasticsearch indexing  
 
+#### 🎨 Frontend & UX  
+- **UI Tooling**: Bootstrap & Tailwind CSS for rapid, responsive layouts  
+- **Progressive JavaScript**: Vue 3 (Composition API) + Inertia.js  
+- **Dashboards**: Real-time metrics, billing & admin panels  
 
+#### 🛒 E-commerce & Digital Marketing  
+- **Platforms**: Shopify & WooCommerce multi-language store setups  
+- **Ads & SEO**: ROI/CPA-focused Google & Facebook campaigns, SEO copywriting & link building  
+- **Automation**: Product feed generation, Google Merchant Center management  
 
-I started coding in HTML and PHP in 1998, and ever since, I've been developing high-performance web applications, working with eCommerce platforms, and managing Linux-based infrastructure (Ubuntu/Debian). My expertise extends to private mail servers, DNS management, domains, and cloud hosting.
+#### 📧 Email Deliverability  
+- **Infrastructure**: 13 years on iRedMail (DNS/SPF/DKIM, SpamAssassin tuning)  
+- **Monitoring**: Blacklist checks (Spamhaus, Barracuda)  
+- **Campaigns**: Setup, deliverability testing & analytics  
 
+#### ⛓️ Web3 & Blockchain  
+- **Forking**: Bitcoin v29, Solana & Ethereum clients  
+- **Integrations**: MetaMask, NFT game dev, EVM smart-contract interactions  
 
+#### 🖥️ Linux & DevOps Foundations  
+- **Server Admin**: Apache 2, Nginx, firewall configuration (Linux & Windows)  
+- **Containerization**: Docker (building/managing project containers)  
+- **Version Control**: Git & GitHub workflows  
 
+---
 
+### 🔭 Current Focus  
+- **Laravel 12 & Vue 3 + Inertia.js** — building maintainable, component-driven apps  
+- **Containerization** — expanding Docker skills toward production deployments  
+- **Web3 Experiments** — decentralized apps & NFT utilities  
 
-🛠️ Tech & Skills
+---
 
-🔹 Backend Development: PHP, Laravel, CodeIgniter, MySQL
+### 📫 Get In Touch  
+- **Email**: [adivv@adivv.pl](mailto:adivv@adivv.pl)  
+- **LinkedIn**: [linkedin.com/in/adrian-wadowski](https://www.linkedin.com/in/adrian-wadowski)  
+- **Website**: [camelway.eu](https://camelway.eu)  
 
-🔹 Frontend Development: JavaScript, HTML, CSS
+---
 
-🔹 Server Administration: Linux (Ubuntu, Debian), Cloud & VPS Management
-
-🔹 Blockchain & Web3: Passionate about smart contracts, dApps, and decentralized systems
-
-🔹 AI Integration: Exploring AI-driven development with ChatGPT & GitHub Copilot
-
-
-💡 What I'm Working On
-
-🚀 Building scalable and secure web applications
-
-🔗 Exploring Web3 & Blockchain integration
-
-🤖 Enhancing workflows with AI-powered coding assistants
-
-
-🤝 Looking to Collaborate
-
-I'm always interested in innovative projects related to:
-
-✅ Web development & optimization
-
-✅ Cloud infrastructure & DevOps
-
-✅ AI-enhanced applications
-
-✅ Blockchain & decentralized systems
-
-
-
-📫 Let's Connect!
-
-
-💬 LinkedIn: https://www.linkedin.com/in/adrian-wadowski
-
-💬 Facebook: http://facebook.com/wadowskiadrian/
-
-📩 Email: adivv@adivv.pl
-
-🌍 My Company: https://camelway.eu/
-
-
-
-
-⚡ Fun Fact: I’ve been coding since the early internet days and still get excited about new tech breakthroughs!
-
-<!---
-adivvvv/adivvvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 💡 _Fun Fact:_ I spun up my first Linux server at 16 and still get a thrill from a perfectly tuned deployment!
