@@ -50,7 +50,8 @@ I’m a Full-Stack Engineer with 25+ years of hands-on experience: from building
 ### 📫 Get In Touch  
 - **Email**: [adivv@adivv.pl](mailto:adivv@adivv.pl)  
 - **LinkedIn**: [linkedin.com/in/adrian-wadowski](https://www.linkedin.com/in/adrian-wadowski)  
-- **Website**: [camelway.eu](https://camelway.eu)  
+- **Website**: [camelway.eu](https://camelway.eu)
+- **My Research**: [adivv.pl](https://adivv.pl)  
 
 ---
 
