@@ -1,58 +1,33 @@
-# 👋 Hi, I’m Adrian “AdiV” Wadowski
+# Hi, I'm Adrian Wadowski
 
----
+I make online stores faster and easier to buy from. I've written code and worked in e-commerce since 1998, and today I run [CartHacker](https://carthacker.com/), where I measure what slows Shopify and WooCommerce stores down, publish the data and build free tools for store owners.
 
-### 🚀 About Me  
-I’m a Full-Stack Engineer with 25+ years of hands-on experience: from building PHP 3 sites at age 13 to architecting modern Laravel applications today. I combine robust backend architecture, database optimization, and Linux server administration with e-commerce, Web3, and UI expertise to deliver secure, scalable, and user-friendly solutions at \$25/hr.
+## What I'm building
 
----
+- [CartHacker](https://carthacker.com/): guides on store speed, conversion, marketing and hosting, and free tools for store owners: the [Store Speed Test](https://carthacker.com/store-speed-test/), [Core Web Vitals Monitoring](https://carthacker.com/plugins/core-web-vitals-monitoring/), [Trust Badges & Seals](https://carthacker.com/trust-badges/) and 39 [PDF tools](https://carthacker.com/pdf-tools/) that run in the browser.
+- Two WordPress plugins on WordPress.org: [CartHacker Core Web Vitals Monitoring](https://wordpress.org/plugins/carthacker-core-web-vitals-monitoring/) and [CartHacker Trust Badges & Seals](https://wordpress.org/plugins/carthacker-trust-badges-seals/).
 
-### 🛠️ What I Do
+## Open research
 
-#### ⚙️ Backend & API Development  
-- **Languages & Frameworks**: PHP (CodeIgniter 3/4, Laravel 12 in progress)  
-- **APIs**: RESTful design & third-party integrations  
-- **Databases**: MariaDB/MySQL schema design, performance tuning, Elasticsearch indexing  
+I publish the data behind my numbers, with a DOI, the raw measurements and the script that prints every number.
 
-#### 🎨 Frontend & UX  
-- **UI Tooling**: Bootstrap & Tailwind CSS for rapid, responsive layouts  
-- **Progressive JavaScript**: Vue 3 (Composition API) + Inertia.js  
-- **Dashboards**: Real-time metrics, billing & admin panels  
+- [How Fast Are Online Stores? Speed Data by Platform](https://carthacker.com/trends/ecommerce-speed-statistics/): real-visitor Core Web Vitals for 1.58 million stores on 48 platforms. Dataset: [doi:10.5281/zenodo.23134346](https://doi.org/10.5281/zenodo.23134346)
+- [Why WooCommerce Is Slow](https://carthacker.com/hosting/woocommerce-slow/): OPcache, page caching, Redis, PHP workers and 16 popular plugins measured on one 600-product store in Docker. Dataset: [doi:10.17632/27787ybwbk.1](https://doi.org/10.17632/27787ybwbk.1)
 
-#### 🛒 E-commerce & Digital Marketing  
-- **Platforms**: Shopify & WooCommerce multi-language store setups  
-- **Ads & SEO**: ROI/CPA-focused Google & Facebook campaigns, SEO copywriting & link building  
-- **Automation**: Product feed generation, Google Merchant Center management  
+## What I work with
 
-#### 📧 Email Deliverability  
-- **Infrastructure**: 13 years on iRedMail (DNS/SPF/DKIM, SpamAssassin tuning)  
-- **Monitoring**: Blacklist checks (Spamhaus, Barracuda)  
-- **Campaigns**: Setup, deliverability testing & analytics  
+- Servers: Debian and Ubuntu, nginx, PHP-FPM, MariaDB, Redis, Docker, Cloudflare
+- Stores: Shopify themes and apps, WooCommerce and WordPress
+- Code: PHP (Laravel, CodeIgniter), JavaScript (Vue 3), Python, SQL, Tailwind CSS
+- Speed: Core Web Vitals, Chrome UX Report, Lighthouse, PageSpeed Insights
+- Growth: product pages and checkout, Google Shopping feeds, Google Ads, email flows
 
-#### ⛓️ Web3 & Blockchain  
-- **Forking**: Bitcoin v29, Solana & Ethereum clients with custom genesis and settings
-- **Integrations**: MetaMask, NFT game dev, EVM smart-contract interactions  
+Before CartHacker I also ran mail servers for 13 years (iRedMail, SPF, DKIM, DMARC) and built Web3 experiments on forked Bitcoin, Solana and Ethereum clients.
 
-#### 🖥️ Linux & DevOps Foundations  
-- **Server Admin**: Apache 2, Nginx, firewall configuration (Linux & Windows)  
-- **Containerization**: Docker (building/managing project containers)  
-- **Version Control**: Git & GitHub workflows  
+## Hire me
 
----
+My [Core Web Vitals fix](https://adivv.pl/core-web-vitals-fix/) for Shopify ($499) and WooCommerce ($799) stores is checked on your real visitors: mobile Core Web Vitals pass within 28 days, or you get your money back.
 
-### 🔭 Current Focus  
-- **Laravel 12 & Vue 3 + Inertia.js** - building maintainable, component-driven apps  
-- **Containerization** - expanding Docker skills toward production deployments  
-- **Web3 Experiments** - decentralized apps & NFT utilities  
+## Contact
 
----
-
-### 📫 Get In Touch  
-- **Email**: [adivv@adivv.pl](mailto:adivv@adivv.pl)  
-- **LinkedIn**: [linkedin.com/in/adrian-wadowski](https://www.linkedin.com/in/adrian-wadowski)  
-- **Website**: [camelway.eu](https://camelway.eu)
-- **My Research**: [adivv.pl](https://adivv.pl)  
-
----
-
-> 💡 _Fun Fact:_ I spun up my first Linux server at 16 and still get a thrill from a perfectly tuned deployment!
+[adivv.pl/contact](https://adivv.pl/contact/) · [LinkedIn](https://www.linkedin.com/in/adrian-wadowski/) · [ORCID](https://orcid.org/0009-0005-3393-7953) · [DEV](https://dev.to/adrianwadowski)
